@@ -1,0 +1,6 @@
+title: Organisation hub sdk
+description: A Jekyll theme for documentation
+
+# Enable or disable the site search
+search_enabled: true
+remote_theme: pmarsceill/just-the-docs
